@@ -1,4 +1,4 @@
-# Prediction of Methionine Oxidation Sites
+# Prediction of Protein Oxidation Sites
 A Machine Learning Approach
 
 The file "MetOData" is a RData containing all the data used in the paper entitled “Feature Engineering to Improve the Prediction of Methionine Oxidation Sites in Proteins”.
